@@ -1,0 +1,17 @@
+#cover {
+  background: url('../assets/img/cover1.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  width: 101%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+#cover-heading {
+  width: 100%;
+}
+#cover-heading h1{
+  text-shadow: 5px 10px 10px green;
+  font-size: 70px;
+}

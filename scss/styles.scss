@@ -1,0 +1,58 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+
+html,
+body{
+  height: 100%;
+  background-color: black;
+}
+nav{
+  width: 101%;
+}
+p {
+  margin-bottom: 0px;
+}
+
+#cover {
+  background: url('../assets/img/cover1.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  width: 101%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+#cover-heading {
+  width: 100%;
+}
+#cover-heading h1{
+  text-shadow: 5px 10px 10px green;
+  font-size: 70px;
+}
+
+.card-img-top{
+  width: 60%;
+}
+.card-deck{
+  padding: 10rem 2rem;
+}
+.card_{
+  padding: 2rem;
+}
+.genre{
+  padding: 10rem 0;
+}
+.feature-content{
+  padding: 5rem 2rem;
+}
+.feature-content iframe{
+width: 100%;
+}
+
+footer{
+  color: red;
+}
+.social-links{
+  color: black;
+}
